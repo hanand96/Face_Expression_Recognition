@@ -1,7 +1,7 @@
 # Face Expression Recognition
-Facial expression recognition using CNN model trained on fer2013 dataset.
+Facial expression recognition using CNN model trained on fer2013 dataset.\n
 
-Requirements:
+Requirements:\n
    opencv-python==4.2.0
    matplotlib==3.3.0
    numpy==1.19.1
